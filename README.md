@@ -2,7 +2,7 @@
 
 Vestible for The Knowledge House 2020 Innovation Fellowship
 
-Consist of Seven (7) Modules 
+Consist of Seven (7) Modules
 
 Module 1 - Bloomberg coding article questions
 
