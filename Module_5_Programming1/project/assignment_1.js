@@ -1,5 +1,5 @@
-//user prompts for data
 //https://codepen.io/faust0/pen/LYNNwgo
+//user prompts for data
 
 let weekIncome = parseInt(prompt("What is your weekly income?"));
 let housing = parseInt(prompt("What is your weekly rent or mortgage expense?"));
