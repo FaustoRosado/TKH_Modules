@@ -1,4 +1,4 @@
-
+// codepen - https://codepen.io/faust0/pen/ExKyvqG
 
 document.querySelector('#tip-form').onchange = function(){
 
