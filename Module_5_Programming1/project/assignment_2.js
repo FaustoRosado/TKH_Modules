@@ -1,4 +1,4 @@
-//codepen - https://codepen.io/faust0/pen/jOqqgjY?editors=1111
+//codepen - https://codepen.io/faust0/pen/jOqqgjY
 
 //switch statements where user enters variable grade
 
