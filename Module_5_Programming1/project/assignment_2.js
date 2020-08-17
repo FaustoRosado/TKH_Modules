@@ -32,4 +32,7 @@ switch (true) {
     case grade <= 64:
         console.log("F");
         break;
+    default:
+        console.log("Please enter number grade");
+        break;
 }
