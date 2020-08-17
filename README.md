@@ -12,7 +12,7 @@ Module 3 - HTML
 
 Module 4 - [CSS / Portfolio](https://faustorosado.github.io/)
 
-Module 5 - Programming1 Github Repo with Coding Challenge Responses
+Module 5 - Programming1 Github Repo with [Coding Challenge Responses](https://github.com/FaustoRosado/TKH_Modules/tree/master/Module_5_Programming1)
 
 Module 6 - Programmming2 Repo with Coding project files
 
