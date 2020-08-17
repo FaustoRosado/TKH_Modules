@@ -1,0 +1,11 @@
+
+
+#results {
+    display:none;
+  }
+
+body {
+    width:100%; 
+    background: url(/restaurant.jpg) 50% 0 no-repeat fixed; 
+    background-size:cover; 
+}
