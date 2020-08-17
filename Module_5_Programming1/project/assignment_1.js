@@ -1,4 +1,5 @@
-//https://codepen.io/faust0/pen/LYNNwgo
+//codepen - https://codepen.io/faust0/pen/LYNNwgo
+
 //user prompts for data
 
 let weekIncome = parseInt(prompt("What is your weekly income?"));
